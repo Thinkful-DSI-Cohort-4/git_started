@@ -1,2 +1,3 @@
-# git_started
-Demo git(hub) repo
+# Gitting Started
+
+Demo Git(Hub) repo.
