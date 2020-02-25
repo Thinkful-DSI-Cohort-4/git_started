@@ -6,6 +6,3 @@ Demo Git(Hub) repo.
 * Cloned a repo
 * Made changes
 * Add, Commit, & Push
-
-ACP
-
